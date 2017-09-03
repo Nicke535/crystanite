@@ -13,7 +13,7 @@
     #"masterVersionFile":"https://github.com/LazyWizard/VersionChecker/blob/master/versionchecker.version",
     #"masterVersionFile":"https://github.com/LazyWizard/VersionChecker/releases/download/0.1/versionchecker.version",
     #"masterVersionFile":"https://bitbucket.org/LazyWizard/version-checker/raw/tip/versionchecker.version",
-    "masterVersionFile":"https://github.com/Nicke535/crystanite/blob/master/crystanite.version",
+    "masterVersionFile":"https://raw.githubusercontent.com/Nicke535/crystanite/master/crystanite.version",
     # The name that is displayed in-game for your mod
     "modName":"The Crystanite Coalition",
     # The ID of the thread where updates to this mod can be found (optional).
@@ -29,6 +29,6 @@
     {
         "major":1,
         "minor":8,
-        "patch":e # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
+        "patch":g # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
     }
 }
