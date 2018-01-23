@@ -28,7 +28,7 @@
     "modVersion":
     {
         "major":1,
-        "minor":9,
+        "minor":10,
         "patch":a # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
     }
 }
